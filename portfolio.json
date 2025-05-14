@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Gesture Chrome Dino",
+        "description": "Bermain Chrome Dino dengan gerakan tangan",
+        "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/ai-app/gesture-chrome-dino/screenshot.webp",
+        "category": "AI Application"
+    },
+    {
+        "title": "Company Profile Collection - Part 3",
+        "description": "Sampel profil perusahaan serbaguna dengan desain modern",
+        "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/web-page/company-profile-3/screenshot.webp",
+        "liveDemo": "https://fdcodestudio.github.io/collection-showcase/web-page/company-profile-3/",
+        "category": "Web Development"
+    },
+    {
+        "title": "Company Profile Collection - Part 2",
+        "description": "Sampel profil perusahaan konstruksi yang modern dan profesional",
+        "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/web-page/company-profile-2/screenshot.webp",
+        "category": "Web Development"
+    },
+    {
+        "title": "Company Profile Collection - Part 1",
+        "description": "Sampel profil perusahaan konstruksi yang modern dan profesional",
+        "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/web-page/company-profile-1/screenshot.webp",
+        "viewDemo": "https://www.instagram.com/p/CaQ4Dy0pUAV",
+        "category": "Web Development"
+    },
+    {
+        "title": "Landing Page Collection - Part 1",
+        "description": "Sampel landing page fashion pria yang sederhana dan elegan",
+        "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/web-page/landing-page-1/screenshot.webp",
+        "liveDemo": "https://fdcodestudio.github.io/collection-showcase/web-page/landing-page-1/",
+        "category": "Web Development"
+    },
+    {
+        "title": "Designer Portfolio Page",
+        "description": "Sampel portofolio eksklusif untuk desainer grafis",
+        "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/web-page/designer-portfolio-page/screenshot.webp",
+        "liveDemo": "https://pickbynl.netlify.app",
+        "category": "Web Development"
+    }
+]
