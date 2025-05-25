@@ -1,8 +1,16 @@
 [
     {
+        "title": "Business Website Collection - Karaoke",
+        "description": "Sampel website bisnis karaoke dengan desain gelap modern dan nuansa neon",
+        "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/web-page/business-website-1-karaoke/screenshot.webp",
+        "liveDemo": "https://fdcodestudio.github.io/collection-showcase/web-page/business-website-1-karaoke/",
+        "category": "Web Development"
+    },
+    {
         "title": "Gesture Chrome Dino",
         "description": "Bermain Chrome Dino dengan gerakan tangan",
         "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/ai-app/gesture-chrome-dino/screenshot.webp",
+        "liveDemo": "https://fdcodestudio.github.io/collection-showcase/ai-app/gesture-chrome-dino/",
         "category": "AI Application"
     },
     {
@@ -10,12 +18,14 @@
         "description": "Sampel profil perusahaan serbaguna dengan desain modern",
         "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/web-page/company-profile-3/screenshot.webp",
         "liveDemo": "https://fdcodestudio.github.io/collection-showcase/web-page/company-profile-3/",
+        "viewDemo": "https://www.instagram.com/p/DKEvhaFzm4w",
         "category": "Web Development"
     },
     {
         "title": "Company Profile Collection - Part 2",
         "description": "Sampel profil perusahaan konstruksi yang modern dan profesional",
         "imageUrl": "https://raw.githubusercontent.com/fdcodestudio/collection-showcase/refs/heads/master/web-page/company-profile-2/screenshot.webp",
+        "viewDemo": "https://www.instagram.com/p/DJq_iXHPGG_",
         "category": "Web Development"
     },
     {
